@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\js_icon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\src\\main\\res\\mipmap-xxxhdpi\\js_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\other_icon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\src\\main\\res\\mipmap-xxxhdpi\\other_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ios_icon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ios_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\android_icon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\src\\main\\res\\mipmap-xxxhdpi\\android_icon.png"
+    }
+]

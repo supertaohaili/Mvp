@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_error.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_error.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\xdroid_logo_128.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\src\\main\\res\\mipmap-xhdpi\\xdroid_logo_128.png"
+    }
+]
