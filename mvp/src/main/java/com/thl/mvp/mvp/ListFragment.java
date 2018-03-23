@@ -7,13 +7,14 @@ import com.lcodecore.tkrefreshlayout.RefreshListenerAdapter;
 import com.lcodecore.tkrefreshlayout.TwinklingRefreshLayout;
 import com.lcodecore.tkrefreshlayout.header.progresslayout.ProgressLayout;
 import com.thl.mvp.R;
+import com.thl.mvp.base.SimpleRecAdapter;
 
 
 public abstract class ListFragment<P extends IPresent> extends StateFragment{
 
     private TwinklingRefreshLayout refreshLayout;
     private RecyclerView mRecyclerView;
-    private RecyclerView.Adapter adapter;
+    private SimpleRecAdapter adapter;
 
     protected static final int MAX_PAGE = 10;
 
@@ -57,7 +58,7 @@ public abstract class ListFragment<P extends IPresent> extends StateFragment{
 
     }
 
-    public RecyclerView.Adapter getAdapter() {
+    public SimpleRecAdapter getAdapter() {
         return adapter;
     }
 
@@ -68,7 +69,7 @@ public abstract class ListFragment<P extends IPresent> extends StateFragment{
 
     protected abstract RecyclerView.LayoutManager getLayoutManager();
 
-    protected abstract RecyclerView.Adapter initAdapter();
+    protected abstract SimpleRecAdapter initAdapter();
 
     protected  void loadMore(TwinklingRefreshLayout refreshLayout){
         loadNetData();

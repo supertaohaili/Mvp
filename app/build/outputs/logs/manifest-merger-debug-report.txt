@@ -116,9 +116,10 @@ MERGED from [com.github.supertaohaili:SuperTextView:1.0.2] C:\Users\Administrato
 		INJECTED from C:\Users\Administrator\Desktop\Mvp\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Administrator\Desktop\Mvp\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.github.supertaohaili:Utils:1.0.0] C:\Users\Administrator\Desktop\Mvp\app\build\intermediates\exploded-aar\com.github.supertaohaili\Utils\1.0.0\AndroidManifest.xml:11:5-79
+ADDED from [Mvp:mvp:unspecified] C:\Users\Administrator\Desktop\Mvp\app\build\intermediates\exploded-aar\Mvp\mvp\unspecified\AndroidManifest.xml:11:5-79
+MERGED from [com.github.supertaohaili:Utils:1.0.0] C:\Users\Administrator\Desktop\Mvp\app\build\intermediates\exploded-aar\com.github.supertaohaili\Utils\1.0.0\AndroidManifest.xml:11:5-79
 	android:name
-		ADDED from [com.github.supertaohaili:Utils:1.0.0] C:\Users\Administrator\Desktop\Mvp\app\build\intermediates\exploded-aar\com.github.supertaohaili\Utils\1.0.0\AndroidManifest.xml:11:22-76
+		ADDED from [Mvp:mvp:unspecified] C:\Users\Administrator\Desktop\Mvp\app\build\intermediates\exploded-aar\Mvp\mvp\unspecified\AndroidManifest.xml:11:22-76
 uses-permission#android.permission.ACCESS_WIFI_STATE
 ADDED from [com.github.supertaohaili:Utils:1.0.0] C:\Users\Administrator\Desktop\Mvp\app\build\intermediates\exploded-aar\com.github.supertaohaili\Utils\1.0.0\AndroidManifest.xml:12:5-76
 	android:name

@@ -8,17 +8,17 @@ import android.view.View;
  */
 
 public interface IView<P> {
-    void bindUI(View rootView);
+    public void bindUI(View rootView);
 
-    void bindEvent();
+    public void bindEvent();
 
-    void initData(Bundle savedInstanceState);
+    public void initData(Bundle savedInstanceState);
 
-    int getOptionsMenuId();
+    public int getOptionsMenuId();
 
-    int getLayoutId();
+    public int getLayoutId();
 
-    boolean useEventBus();
+    public boolean useEventBus();
 
-    P newP();
+    public P newP();
 }

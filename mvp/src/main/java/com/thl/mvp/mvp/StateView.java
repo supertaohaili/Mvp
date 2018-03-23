@@ -4,7 +4,7 @@ package com.thl.mvp.mvp;
  * Created by Administrator on 2018/3/23.
  */
 
-public abstract interface StateView<P> extends IView<P> {
+public abstract interface StateView extends IView {
     public abstract void showLoading();
 
     public abstract void showError();
