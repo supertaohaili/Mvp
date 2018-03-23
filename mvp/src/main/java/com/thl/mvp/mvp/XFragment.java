@@ -9,16 +9,13 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.tbruyelle.rxpermissions2.RxPermissions;
-import com.trello.rxlifecycle2.components.support.RxFragment;
-
-import butterknife.Unbinder;
 import com.thl.mvp.MvpConfig;
 import com.thl.mvp.event.BusProvider;
 import com.thl.mvp.kit.KnifeKit;
+import com.trello.rxlifecycle2.components.support.RxFragment;
 
-/**
- * Created by wanglei on 2016/12/29.
- */
+import butterknife.Unbinder;
+
 
 public abstract class XFragment<P extends IPresent> extends RxFragment implements IView<P> {
 

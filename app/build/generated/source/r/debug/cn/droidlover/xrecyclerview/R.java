@@ -43,14 +43,14 @@ public final class R {
 		public static final int item_touch_helper_previous_elevation = 0x7f0c0012;
 		public static final int outsideInset = 0x7f0c0085;
 		public static final int outsideOverlay = 0x7f0c0086;
-		public static final int progressBar = 0x7f0c00fd;
-		public static final int recyclerView = 0x7f0c00fe;
-		public static final int swipeRefreshLayout = 0x7f0c00be;
-		public static final int tv_msg = 0x7f0c00fc;
+		public static final int progressBar = 0x7f0c0102;
+		public static final int recyclerView = 0x7f0c0103;
+		public static final int swipeRefreshLayout = 0x7f0c00c2;
+		public static final int tv_msg = 0x7f0c0101;
 	}
 	public static final class layout {
-		public static final int x_view_footer_load_more_simple = 0x7f04004b;
-		public static final int x_view_recycler_content_layout = 0x7f04004c;
+		public static final int x_view_footer_load_more_simple = 0x7f040050;
+		public static final int x_view_recycler_content_layout = 0x7f040051;
 	}
 	public static final class string {
 		public static final int app_name = 0x7f060021;

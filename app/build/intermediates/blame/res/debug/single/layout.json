@@ -13,7 +13,7 @@
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\state_empty.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\exploded-aar\\com.github.supertaohaili\\StateLayout\\1.0.1\\res\\layout\\state_empty.xml"
+        "source": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\exploded-aar\\Mvp\\mvp\\unspecified\\res\\layout\\state_empty.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
@@ -21,7 +21,7 @@
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\state_error.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\exploded-aar\\com.github.supertaohaili\\StateLayout\\1.0.1\\res\\layout\\state_error.xml"
+        "source": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\exploded-aar\\Mvp\\mvp\\unspecified\\res\\layout\\state_error.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
@@ -40,12 +40,16 @@
         "source": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_sinaheader.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\exploded-aar\\com.github.supertaohaili\\RefreshLayout\\1.0.0\\res\\layout\\view_sinaheader.xml"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
         "source": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_sinaheader.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\exploded-aar\\com.github.supertaohaili\\RefreshLayout\\1.0.0\\res\\layout\\view_sinaheader.xml"
+        "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guide_page.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\exploded-aar\\Mvp\\mvp\\unspecified\\res\\layout\\guide_page.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_girl.xml",
@@ -124,6 +128,10 @@
         "source": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\src\\main\\res\\layout\\view_state.xml"
     },
     {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\exploded-aar\\Mvp\\mvp\\unspecified\\res\\layout\\activity_list.xml"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
         "source": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
@@ -181,7 +189,7 @@
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\state_loading.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\exploded-aar\\com.github.supertaohaili\\StateLayout\\1.0.1\\res\\layout\\state_loading.xml"
+        "source": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\exploded-aar\\Mvp\\mvp\\unspecified\\res\\layout\\state_loading.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
@@ -194,6 +202,10 @@
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
         "source": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guide.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\exploded-aar\\Mvp\\mvp\\unspecified\\res\\layout\\activity_guide.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
@@ -237,7 +249,7 @@
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\state_net_error.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\exploded-aar\\com.github.supertaohaili\\StateLayout\\1.0.1\\res\\layout\\state_net_error.xml"
+        "source": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\exploded-aar\\Mvp\\mvp\\unspecified\\res\\layout\\state_net_error.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
@@ -254,6 +266,10 @@
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
         "source": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\exploded-aar\\Mvp\\mvp\\unspecified\\res\\layout\\activity_splash.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
@@ -290,6 +306,10 @@
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
         "source": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\exploded-aar\\Mvp\\mvp\\unspecified\\res\\layout\\fragment_list.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
