@@ -10,7 +10,7 @@ import java.util.Calendar;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import com.thl.mvp.XDroidConf;
+import com.thl.mvp.MvpConfig;
 import com.thl.mvp.kit.Codec;
 import com.thl.mvp.kit.Kits;
 
@@ -157,7 +157,7 @@ public class DiskCache implements ICache {
     }
 
     private String getCacheDir() {
-        return XDroidConf.CACHE_DISK_DIR;
+        return MvpConfig.CACHE_DISK_DIR;
     }
 
 

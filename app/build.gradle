@@ -26,5 +26,7 @@ dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     apt rootProject.ext.dependencies["butterknife-apt"]
     compile rootProject.ext.dependencies["avi-loading"]
+    compile rootProject.ext.dependencies["xrecyclerview"]
+
     compile project(":mvp")
 }

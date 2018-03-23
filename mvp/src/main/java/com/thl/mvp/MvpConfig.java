@@ -8,7 +8,7 @@ import com.thl.mvp.kit.Kits;
  * Created by wanglei on 2016/12/4.
  */
 
-public class XDroidConf {
+public class MvpConfig {
     // #log
     public static boolean LOG = true;
     public static String LOG_TAG = "XDroid";

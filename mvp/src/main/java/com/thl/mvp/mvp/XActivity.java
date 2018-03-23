@@ -11,7 +11,7 @@ import com.tbruyelle.rxpermissions2.RxPermissions;
 import com.trello.rxlifecycle2.components.support.RxAppCompatActivity;
 
 import butterknife.Unbinder;
-import com.thl.mvp.XDroidConf;
+import com.thl.mvp.MvpConfig;
 import com.thl.mvp.event.BusProvider;
 
 /**
@@ -116,7 +116,7 @@ public abstract class XActivity<P extends IPresent> extends RxAppCompatActivity 
 
     protected RxPermissions getRxPermissions() {
         rxPermissions = new RxPermissions(this);
-        rxPermissions.setLogging(XDroidConf.DEV);
+        rxPermissions.setLogging(MvpConfig.DEV);
         return rxPermissions;
     }
 

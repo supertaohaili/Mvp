@@ -10,6 +10,7 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 import butterknife.BindView;
+
 import com.thl.mvp.base.SimpleRecAdapter;
 import com.thl.mvp.demo.R;
 import com.thl.mvp.demo.model.GankResults;

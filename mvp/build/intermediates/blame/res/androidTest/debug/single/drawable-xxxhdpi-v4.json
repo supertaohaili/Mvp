@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\mvp\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_black_48dp.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Mvp\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_48dp.png"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\mvp\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
         "source": "C:\\Users\\Administrator\\Desktop\\Mvp\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\mvp\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Mvp\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_48dp.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\mvp\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png",

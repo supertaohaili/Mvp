@@ -3,7 +3,7 @@ package com.thl.mvp.log;
 import android.text.TextUtils;
 import android.util.Log;
 
-import com.thl.mvp.XDroidConf;
+import com.thl.mvp.MvpConfig;
 
 /**
  * Created by wanglei on 2016/11/29.
@@ -11,8 +11,8 @@ import com.thl.mvp.XDroidConf;
 
 public class XLog {
 
-    public static boolean LOG = XDroidConf.LOG;
-    public static String TAG_ROOT = XDroidConf.LOG_TAG;
+    public static boolean LOG = MvpConfig.LOG;
+    public static String TAG_ROOT = MvpConfig.LOG_TAG;
 
     public static void json(String json) {
         json(Log.DEBUG, null, json);

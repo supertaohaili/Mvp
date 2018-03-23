@@ -26,7 +26,6 @@ dependencies {
     compile rootProject.ext.dependencies["annotations"]
     compile rootProject.ext.dependencies["recyclerview-v7"]
 
-    compile rootProject.ext.dependencies["xrecyclerview"]
     compile rootProject.ext.dependencies["butterknife"]
     compile rootProject.ext.dependencies["glide"]
 
@@ -42,6 +41,12 @@ dependencies {
     compile rootProject.ext.dependencies["rxlifecycle-android"]
     compile rootProject.ext.dependencies["rxlifecycle-components"]
     compile rootProject.ext.dependencies["rxpermissions"]
+
+    compile rootProject.ext.dependencies["RefreshLayout"]
+    compile rootProject.ext.dependencies["StateLayout"]
+    compile rootProject.ext.dependencies["Utils"]
+    compile rootProject.ext.dependencies["Dialog"]
+    compile rootProject.ext.dependencies["SuperTextView"]
 }
 
 tasks.withType(JavaCompile) {

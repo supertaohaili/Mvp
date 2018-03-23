@@ -25,7 +25,7 @@
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
-        sha1="790f1ebf6ec3f3e79118af7f36f7997340728b8b">
+        sha1="bd3bd1e40eb1ea5db041b45e3d29fc6e8ce366e4">
         <dex dex="C:\Users\Administrator\Desktop\Mvp\app\build\intermediates\pre-dexed\debug\Mvp-mvp-unspecified_761af4cfb20db0c667ad34d33d437e71300f0fd9.jar" />
     </item>
     <item
@@ -165,6 +165,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\Mvp\app\build\intermediates\exploded-aar\com.github.supertaohaili\Dialog\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4f3f2c777fad5e1c6da46dfc51ae64e25d0efee6">
+        <dex dex="C:\Users\Administrator\Desktop\Mvp\app\build\intermediates\pre-dexed\debug\com.github.supertaohaili-Dialog-1.0.0_46034c95d7b84c8b4d9c4609ccc6857ae4de645c.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Administrator\Desktop\Mvp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
         jumboMode="false"
         optimize="true"
@@ -180,6 +189,15 @@
         revision="26.0.2"
         sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
         <dex dex="C:\Users\Administrator\Desktop\Mvp\app\build\intermediates\pre-dexed\debug\retrofit-2.2.0_5127af66b76a6a65810e00277050022b19264d6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\Mvp\app\build\intermediates\exploded-aar\com.github.supertaohaili\StateLayout\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="04f351fc37431fdd34792c9b6438cd1c54c5ba95">
+        <dex dex="C:\Users\Administrator\Desktop\Mvp\app\build\intermediates\pre-dexed\debug\com.github.supertaohaili-StateLayout-1.0.1_fbb04627b9a1c4001e97f0e185333c148fd06eaa.jar" />
     </item>
     <item
         is-multidex="false"
@@ -282,6 +300,24 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\Mvp\app\build\intermediates\exploded-aar\com.github.supertaohaili\SuperTextView\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8ee99ee478514af8e829de22f547216cce735730">
+        <dex dex="C:\Users\Administrator\Desktop\Mvp\app\build\intermediates\pre-dexed\debug\com.github.supertaohaili-SuperTextView-1.0.2_dc09ce79d211066ad6f0583d8a307005bb0e1ac1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\Mvp\app\build\intermediates\exploded-aar\com.github.supertaohaili\Utils\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="acd0d2f72a71dcc19533f3e2119770be51ff9f93">
+        <dex dex="C:\Users\Administrator\Desktop\Mvp\app\build\intermediates\pre-dexed\debug\com.github.supertaohaili-Utils-1.0.0_c62525e0727de5aeb85557036332605b4a003ec7.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Administrator\Desktop\Mvp\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -342,6 +378,15 @@
         revision="26.0.2"
         sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
         <dex dex="C:\Users\Administrator\Desktop\Mvp\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_d41cdbc6de86292466a1b146795b9f92fad5eb01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\Mvp\app\build\intermediates\exploded-aar\com.github.supertaohaili\RefreshLayout\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0ab2be6d0512b0c5356d031a8d85224ba876cfde">
+        <dex dex="C:\Users\Administrator\Desktop\Mvp\app\build\intermediates\pre-dexed\debug\com.github.supertaohaili-RefreshLayout-1.0.0_ddada011482bc01ac3dc51bcb258cc25cf6fbe85.jar" />
     </item>
     <item
         is-multidex="false"

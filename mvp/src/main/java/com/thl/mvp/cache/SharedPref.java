@@ -3,7 +3,7 @@ package com.thl.mvp.cache;
 import android.content.Context;
 import android.content.SharedPreferences;
 
-import com.thl.mvp.XDroidConf;
+import com.thl.mvp.MvpConfig;
 
 /**
  * Created by wanglei on 2016/11/27.
@@ -14,7 +14,7 @@ public class SharedPref implements ICache {
     private static SharedPreferences sharedPreferences;
     private static SharedPreferences.Editor editor;
 
-    static final String SP_NAME = XDroidConf.CACHE_SP_NAME;
+    static final String SP_NAME = MvpConfig.CACHE_SP_NAME;
 
     private static SharedPref instance;
 

@@ -5,7 +5,7 @@ import android.widget.ImageView;
 
 import java.io.File;
 
-import com.thl.mvp.XDroidConf;
+import com.thl.mvp.MvpConfig;
 
 /**
  * Created by wanglei on 2016/11/27.
@@ -43,7 +43,7 @@ public interface ILoader {
         public static final int RES_NONE = -1;
 
         public static Options defaultOptions() {
-            return new Options(XDroidConf.IL_LOADING_RES, XDroidConf.IL_ERROR_RES);
+            return new Options(MvpConfig.IL_LOADING_RES, MvpConfig.IL_ERROR_RES);
         }
 
         public Options(int loadingResId, int loadErrorResId) {

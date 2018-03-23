@@ -16,6 +16,10 @@
         "source": "C:\\Users\\Administrator\\Desktop\\Mvp\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\mvp\\build\\intermediates\\res\\merged\\debug\\drawable\\anim_loading_view.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Mvp\\mvp\\build\\intermediates\\exploded-aar\\com.github.supertaohaili\\RefreshLayout\\1.0.0\\res\\drawable\\anim_loading_view.xml"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\mvp\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
         "source": "C:\\Users\\Administrator\\Desktop\\Mvp\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\notification_icon_background.xml"
     },
@@ -96,6 +100,10 @@
         "source": "C:\\Users\\Administrator\\Desktop\\Mvp\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\drawable\\design_fab_background.xml"
     },
     {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\mvp\\build\\intermediates\\res\\merged\\debug\\drawable\\progress.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Mvp\\mvp\\build\\intermediates\\exploded-aar\\com.github.supertaohaili\\SuperTextView\\1.0.2\\res\\drawable\\progress.xml"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\mvp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
         "source": "C:\\Users\\Administrator\\Desktop\\Mvp\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_btn_check_material.xml"
     },
@@ -146,6 +154,10 @@
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\mvp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
         "source": "C:\\Users\\Administrator\\Desktop\\Mvp\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\mvp\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_white.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Mvp\\mvp\\build\\intermediates\\exploded-aar\\com.github.supertaohaili\\SuperTextView\\1.0.2\\res\\drawable\\selector_white.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\Mvp\\mvp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",

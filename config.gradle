@@ -45,6 +45,14 @@ ext {
 
             "canary-debug"               : "com.squareup.leakcanary:leakcanary-android:1.4-beta2",
             "canary-release"             : "com.squareup.leakcanary:leakcanary-android-no-op:1.4-beta2",
+
+
+            "RefreshLayout"             : "com.github.supertaohaili:RefreshLayout:1.0.0",
+            "StateLayout"             : "com.github.supertaohaili:StateLayout:1.0.1",
+            "Utils"             : "com.github.supertaohaili:Utils:1.0.0",
+            "Dialog"             : "com.github.supertaohaili:Dialog:1.0.0",
+            "SuperTextView"             : "com.github.supertaohaili:SuperTextView:1.0.2",
+
     ]
 
 }

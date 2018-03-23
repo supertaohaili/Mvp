@@ -6,7 +6,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import cn.droidlover.xrecyclerview.RecyclerAdapter;
 
 /**
  * Created by wanglei on 2016/11/29.

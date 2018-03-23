@@ -7,7 +7,7 @@ import com.thl.mvp.kit.KnifeKit;
 import com.tbruyelle.rxpermissions2.RxPermissions;
 
 import butterknife.Unbinder;
-import com.thl.mvp.XDroidConf;
+import com.thl.mvp.MvpConfig;
 import com.thl.mvp.event.BusProvider;
 
 /**
@@ -83,7 +83,7 @@ public abstract class XLazyFragment<P extends IPresent>
 
     protected RxPermissions getRxPermissions() {
         rxPermissions = new RxPermissions(getActivity());
-        rxPermissions.setLogging(XDroidConf.DEV);
+        rxPermissions.setLogging(MvpConfig.DEV);
         return rxPermissions;
     }
 

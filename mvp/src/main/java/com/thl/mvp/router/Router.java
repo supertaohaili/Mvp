@@ -11,7 +11,7 @@ import android.support.v4.app.ActivityOptionsCompat;
 import java.io.Serializable;
 import java.util.ArrayList;
 
-import com.thl.mvp.XDroidConf;
+import com.thl.mvp.MvpConfig;
 
 /**
  * Created by wanglei on 2016/11/29.
@@ -24,8 +24,8 @@ public class Router {
     private Bundle data;
     private ActivityOptionsCompat options;
     private int requestCode = -1;
-    private int enterAnim = XDroidConf.ROUTER_ANIM_ENTER;
-    private int exitAnim = XDroidConf.ROUTER_ANIM_EXIT;
+    private int enterAnim = MvpConfig.ROUTER_ANIM_ENTER;
+    private int exitAnim = MvpConfig.ROUTER_ANIM_EXIT;
 
     public static final int RES_NONE = -1;
 

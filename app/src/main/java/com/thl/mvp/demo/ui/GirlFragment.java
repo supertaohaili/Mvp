@@ -1,10 +1,11 @@
 package com.thl.mvp.demo.ui;
 
+import com.thl.mvp.base.RecyclerItemCallback;
 import com.thl.mvp.base.SimpleRecAdapter;
 import com.thl.mvp.demo.adapter.GirlAdapter;
 import com.thl.mvp.demo.model.GankResults;
 
-import cn.droidlover.xrecyclerview.RecyclerItemCallback;
+
 import cn.droidlover.xrecyclerview.XRecyclerView;
 
 /**
