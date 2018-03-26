@@ -14,7 +14,7 @@ import butterknife.BindView;
 import com.thl.mvp.demo.R;
 
 /**
- * Created by wanglei on 2016/12/10.
+ * Created on 2016/12/10.
  */
 
 public class GanhuoAdapter extends SimpleRecAdapter<GankResults.Item, GanhuoAdapter.ViewHolder> {

@@ -1,7 +1,7 @@
 package com.thl.mvp.mvp;
 
 /**
- * Created by wanglei on 2016/12/29.
+ * Created on 2016/12/29.
  */
 
 public interface IPresent<V> {

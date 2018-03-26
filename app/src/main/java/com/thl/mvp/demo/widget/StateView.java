@@ -12,7 +12,7 @@ import butterknife.BindView;
 import com.thl.mvp.demo.R;
 
 /**
- * Created by wanglei on 2016/12/31.
+ * Created on 2016/12/31.
  */
 
 public class StateView extends LinearLayout {

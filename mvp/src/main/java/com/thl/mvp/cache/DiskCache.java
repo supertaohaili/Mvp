@@ -15,7 +15,7 @@ import com.thl.mvp.kit.Codec;
 import com.thl.mvp.kit.Kits;
 
 /**
- * Created by wanglei on 2016/11/28.
+ * Created on 2016/11/28.
  */
 
 public class DiskCache implements ICache {

@@ -14,7 +14,7 @@ import okhttp3.Interceptor;
 import okhttp3.OkHttpClient;
 
 /**
- * Created by wanglei on 2016/12/31.
+ * Created on 2016/12/31.
  */
 
 public class App extends MvpApplication {

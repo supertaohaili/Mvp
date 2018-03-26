@@ -14,7 +14,7 @@ import okhttp3.Request;
 import okio.Buffer;
 
 /**
- * Created by wanglei on 2016/12/11.
+ * Created on 2016/12/11.
  */
 
 public class AppKit {

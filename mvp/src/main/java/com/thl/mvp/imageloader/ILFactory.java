@@ -1,7 +1,7 @@
 package com.thl.mvp.imageloader;
 
 /**
- * Created by wanglei on 2016/11/28.
+ * Created on 2016/11/28.
  */
 public class ILFactory {
 

@@ -13,7 +13,7 @@ import butterknife.BindView;
 import butterknife.OnClick;
 
 /**
- * Created by wanglei on 2016/12/31.
+ * Created on 2016/12/31.
  */
 
 public class AboutActivity extends XActivity {

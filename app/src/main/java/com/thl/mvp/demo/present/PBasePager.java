@@ -9,7 +9,7 @@ import com.thl.mvp.net.ApiSubscriber;
 import com.thl.mvp.net.NetError;
 
 /**
- * Created by wanglei on 2016/12/31.
+ * Created on 2016/12/31.
  */
 
 public class PBasePager extends XPresent<BasePagerFragment> {

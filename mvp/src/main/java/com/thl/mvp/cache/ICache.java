@@ -1,7 +1,7 @@
 package com.thl.mvp.cache;
 
 /**
- * Created by wanglei on 2016/11/27.
+ * Created on 2016/11/27.
  */
 
 public interface ICache {

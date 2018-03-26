@@ -18,28 +18,30 @@ import com.thl.mvp.net.NetError;
 import cn.droidlover.xrecyclerview.XRecyclerView;
 
 /**
- * Created by wanglei on 2016/12/31.
+ * Created on 2016/12/31.
  */
 
 public class HomeFragment2 extends ListFragment<PBasePager2> {
 
+    private int page = 1;
 
     @Override
     public void initData(Bundle savedInstanceState) {
 
-        getP().loadData(getType(), 1);
+        getP().loadData(getType(), page);
     }
 
     @Override
     protected void refresh(TwinklingRefreshLayout refreshLayout) {
         super.refresh(refreshLayout);
-        getP().loadData(getType(), 1);
+        page = 1;
+        getP().loadData(getType(), page);
     }
 
     @Override
     protected void loadMore(TwinklingRefreshLayout refreshLayout) {
         super.loadMore(refreshLayout);
-        getP().loadData(getType(), 1);
+        getP().loadData(getType(), page);
     }
 
     @Override
@@ -79,22 +81,27 @@ public class HomeFragment2 extends ListFragment<PBasePager2> {
     }
 
     public void showError(NetError error) {
-        if (error != null) {
-          showError();
-        }
+        showError();
+//        if (error != null) {
+//          showError();
+//        }
     }
 
     public void showData(int page, GankResults model) {
         if (page > 1) {
             getAdapter().addData(model.getResults());
+            finishLoadmore();
         } else {
             getAdapter().setData(model.getResults());
+            finishRefreshing();
         }
-
+        this.page = page+1;
 
         if (getAdapter().getItemCount() < 1) {
             showEmpty();
             return;
+        }else{
+            showContent();
         }
     }
 

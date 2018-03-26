@@ -5,7 +5,7 @@ import android.view.View;
 import android.widget.Toast;
 
 /**
- * Created by wanglei on 2016/12/29.
+ * Created on 2016/12/29.
  */
 
 public class VDelegateBase implements VDelegate {

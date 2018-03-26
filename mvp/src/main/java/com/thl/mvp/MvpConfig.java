@@ -5,7 +5,7 @@ import com.thl.mvp.router.Router;
 import com.thl.mvp.kit.Kits;
 
 /**
- * Created by wanglei on 2016/12/4.
+ * Created on 2016/12/4.
  */
 
 public class MvpConfig {

@@ -3,7 +3,7 @@ package com.thl.mvp.mvp;
 import java.lang.ref.WeakReference;
 
 /**
- * Created by wanglei on 2016/12/29.
+ * Created on 2016/12/29.
  */
 
 public class XPresent<V extends IView> implements IPresent<V> {

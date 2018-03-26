@@ -16,7 +16,7 @@ import java.util.List;
 import butterknife.BindView;
 
 /**
- * Created by wanglei on 2016/12/22.
+ * Created on 2016/12/22.
  */
 
 public class MainActivity extends XActivity {

@@ -11,7 +11,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * Created by wanglei on 2016/12/1.
+ * Created on 2016/12/1.
  */
 
 public abstract class XListAdapter<T> extends BaseAdapter {

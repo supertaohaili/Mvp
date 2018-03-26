@@ -3,7 +3,7 @@ package com.thl.mvp.demo.model;
 import java.util.List;
 
 /**
- * Created by wanglei on 2016/12/10.
+ * Created on 2016/12/10.
  */
 
 public class GankResults extends BaseModel {

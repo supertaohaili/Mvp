@@ -18,7 +18,7 @@ import com.thl.mvp.imageloader.ILFactory;
 import com.thl.mvp.kit.KnifeKit;
 
 /**
- * Created by wanglei on 2016/12/10.
+ * Created on 2016/12/10.
  */
 
 public class HomeAdapter extends SimpleRecAdapter<GankResults.Item, HomeAdapter.ViewHolder> {

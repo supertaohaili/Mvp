@@ -15,7 +15,7 @@ import com.thl.mvp.demo.model.GankResults;
 import com.thl.mvp.kit.KnifeKit;
 
 /**
- * Created by wanglei on 2016/12/10.
+ * Created on 2016/12/10.
  */
 
 public class GirlAdapter extends SimpleRecAdapter<GankResults.Item, GirlAdapter.ViewHolder> {

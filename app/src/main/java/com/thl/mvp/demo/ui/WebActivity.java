@@ -21,7 +21,7 @@ import com.thl.mvp.router.Router;
 import cn.droidlover.xstatecontroller.XStateController;
 
 /**
- * Created by wanglei on 2016/12/31.
+ * Created on 2016/12/31.
  */
 
 public class WebActivity extends XActivity {

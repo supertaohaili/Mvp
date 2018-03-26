@@ -3,7 +3,7 @@ package com.thl.mvp.demo.model;
 import com.thl.mvp.net.IModel;
 
 /**
- * Created by wanglei on 2016/12/11.
+ * Created on 2016/12/11.
  */
 
 public class BaseModel implements IModel {

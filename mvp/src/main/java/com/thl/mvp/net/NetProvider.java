@@ -5,7 +5,7 @@ import okhttp3.Interceptor;
 import okhttp3.OkHttpClient;
 
 /**
- * Created by wanglei on 2016/12/24.
+ * Created on 2016/12/24.
  */
 
 public interface NetProvider {

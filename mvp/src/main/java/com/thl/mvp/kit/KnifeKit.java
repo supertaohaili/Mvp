@@ -8,7 +8,7 @@ import butterknife.ButterKnife;
 import butterknife.Unbinder;
 
 /**
- * Created by wanglei on 2016/11/27.
+ * Created on 2016/11/27.
  */
 
 public class KnifeKit {

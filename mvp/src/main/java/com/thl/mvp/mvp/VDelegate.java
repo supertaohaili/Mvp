@@ -3,7 +3,7 @@ package com.thl.mvp.mvp;
 import android.view.View;
 
 /**
- * Created by wanglei on 2016/12/29.
+ * Created on 2016/12/29.
  */
 
 public interface VDelegate {

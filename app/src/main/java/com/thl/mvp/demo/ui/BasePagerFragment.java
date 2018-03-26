@@ -17,7 +17,7 @@ import cn.droidlover.xrecyclerview.XRecyclerContentLayout;
 import cn.droidlover.xrecyclerview.XRecyclerView;
 
 /**
- * Created by wanglei on 2016/12/31.
+ * Created on 2016/12/31.
  */
 
 public abstract class BasePagerFragment extends XLazyFragment<PBasePager> {

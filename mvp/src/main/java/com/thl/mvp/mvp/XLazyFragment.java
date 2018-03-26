@@ -11,7 +11,7 @@ import com.thl.mvp.MvpConfig;
 import com.thl.mvp.event.BusProvider;
 
 /**
- * Created by wanglei on 2017/1/26.
+ * Created on 2017/1/26.
  */
 
 public abstract class XLazyFragment<P extends IPresent> extends LazyFragment implements IView<P> {

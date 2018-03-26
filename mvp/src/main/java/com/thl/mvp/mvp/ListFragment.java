@@ -50,6 +50,11 @@ public abstract class ListFragment<P extends IPresent> extends StateFragment<P>{
         }
     }
 
+    @Override
+    protected Object getStateView() {
+        return getRealRootView().findViewById(R.id.refresh);
+    }
+
     protected void initRecyclerView(RecyclerView mRecyclerView) {
 
     }

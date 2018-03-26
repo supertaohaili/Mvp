@@ -18,7 +18,7 @@ public abstract class StateFragment<P extends IPresent> extends XLazyFragment<P>
     public void bindUI(View rootView) {
         super.bindUI(rootView);
         mStateManager = StateManager.builder(getActivity())
-                .setContent(this.getRealRootView())//为哪部分内容添加状态管理。这里可以是Activity，Fragment或任何View。
+                .setContent(this.getStateView())//为哪部分内容添加状态管理。这里可以是Activity，Fragment或任何View。
                 .setErrorOnClickListener(getErrorListener())
                 .setNetErrorOnClickListener(getNetErrorListener())
                 .setEmptyOnClickListener(getEmptyListener())
@@ -31,6 +31,8 @@ public abstract class StateFragment<P extends IPresent> extends XLazyFragment<P>
             loadNetData();
         }
     }
+
+    protected abstract Object getStateView();
 
     protected boolean isCheckNet() {
         return false;

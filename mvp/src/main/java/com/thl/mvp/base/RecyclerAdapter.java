@@ -11,7 +11,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * Created by wanglei on 2016/10/30.
+ * Created on 2016/10/30.
  */
 
 public abstract class RecyclerAdapter<T, F extends RecyclerView.ViewHolder> extends RecyclerView.Adapter<F> {

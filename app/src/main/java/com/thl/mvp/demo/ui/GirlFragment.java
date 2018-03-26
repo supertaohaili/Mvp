@@ -9,7 +9,7 @@ import com.thl.mvp.demo.model.GankResults;
 import cn.droidlover.xrecyclerview.XRecyclerView;
 
 /**
- * Created by wanglei on 2016/12/31.
+ * Created on 2016/12/31.
  */
 
 public class GirlFragment extends BasePagerFragment {

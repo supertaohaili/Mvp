@@ -19,7 +19,7 @@ import com.thl.mvp.MvpConfig;
 import com.thl.mvp.event.BusProvider;
 
 /**
- * Created by wanglei on 2016/12/29.
+ * Created on 2016/12/29.
  */
 
 public abstract class XActivity<P extends IPresent> extends RxAppCompatActivity implements IView<P> {

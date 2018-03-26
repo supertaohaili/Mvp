@@ -1,7 +1,7 @@
 package com.thl.mvp.net.progress;
 
 /**
- * Created by wanglei on 2017/9/10.
+ * Created on 2017/9/10.
  */
 
 public interface ProgressListener {

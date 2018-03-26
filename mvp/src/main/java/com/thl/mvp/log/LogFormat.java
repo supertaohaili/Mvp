@@ -18,7 +18,7 @@ import javax.xml.transform.stream.StreamSource;
 import com.thl.mvp.kit.Kits;
 
 /**
- * Created by wanglei on 2016/11/29.
+ * Created on 2016/11/29.
  */
 
 public class LogFormat {

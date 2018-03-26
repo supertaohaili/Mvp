@@ -3,7 +3,7 @@ package com.thl.mvp.demo.net;
 import com.thl.mvp.net.XApi;
 
 /**
- * Created by wanglei on 2016/12/31.
+ * Created on 2016/12/31.
  */
 
 public class Api {

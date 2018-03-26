@@ -1,7 +1,7 @@
 package com.thl.mvp.net;
 
 /**
- * Created by wanglei on 2016/12/26.
+ * Created on 2016/12/26.
  */
 
 public interface IModel {

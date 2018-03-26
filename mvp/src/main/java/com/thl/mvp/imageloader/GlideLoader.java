@@ -16,7 +16,7 @@ import com.bumptech.glide.request.target.SimpleTarget;
 import java.io.File;
 
 /**
- * Created by wanglei on 2016/11/28.
+ * Created on 2016/11/28.
  */
 
 public class GlideLoader implements ILoader {

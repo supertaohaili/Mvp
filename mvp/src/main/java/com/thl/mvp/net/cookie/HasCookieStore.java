@@ -1,7 +1,7 @@
 package com.thl.mvp.net.cookie;
 
 /**
- * Created by wanglei on 2017/9/3.
+ * Created on 2017/9/3.
  */
 
 public interface HasCookieStore {

@@ -1,7 +1,7 @@
 package com.thl.mvp.event;
 
 /**
- * Created by wanglei on 2016/12/22.
+ * Created on 2016/12/22.
  */
 
 public class BusProvider {

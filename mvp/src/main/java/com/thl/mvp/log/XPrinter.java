@@ -4,7 +4,7 @@ import android.annotation.TargetApi;
 import android.os.Build;
 
 /**
- * Created by wanglei on 2016/11/29.
+ * Created on 2016/11/29.
  */
 
 public class XPrinter {

@@ -3,7 +3,7 @@ package com.thl.mvp.imageloader;
 import android.graphics.Bitmap;
 
 /**
- * Created by wanglei on 2016/12/21.
+ * Created on 2016/12/21.
  */
 
 public abstract class LoadCallback {

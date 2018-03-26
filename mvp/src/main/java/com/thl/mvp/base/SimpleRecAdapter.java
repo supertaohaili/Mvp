@@ -8,7 +8,7 @@ import android.view.ViewGroup;
 
 
 /**
- * Created by wanglei on 2016/11/29.
+ * Created on 2016/11/29.
  */
 
 public abstract class SimpleRecAdapter<T, F extends RecyclerView.ViewHolder> extends RecyclerAdapter<T, F> {

@@ -15,7 +15,7 @@ import com.trello.rxlifecycle2.components.support.RxFragment;
 import java.lang.reflect.Field;
 
 /**
- * Created by wanglei on 2017/1/28.
+ * Created on 2017/1/28.
  */
 
 public class LazyFragment extends RxFragment {

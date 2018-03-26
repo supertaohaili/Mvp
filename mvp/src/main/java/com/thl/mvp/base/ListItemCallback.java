@@ -1,7 +1,7 @@
 package com.thl.mvp.base;
 
 /**
- * Created by wanglei on 2016/12/1.
+ * Created on 2016/12/1.
  */
 
 public abstract class ListItemCallback<T> {

@@ -6,7 +6,7 @@ import android.content.SharedPreferences;
 import com.thl.mvp.MvpConfig;
 
 /**
- * Created by wanglei on 2016/11/27.
+ * Created on 2016/11/27.
  */
 
 public class SharedPref implements ICache {
