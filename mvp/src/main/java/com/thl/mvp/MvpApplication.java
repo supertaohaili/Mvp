@@ -3,6 +3,8 @@ package com.thl.mvp;
 import android.app.Application;
 import android.content.pm.ApplicationInfo;
 
+import www.thl.com.utils.Utils;
+
 
 public abstract class MvpApplication extends Application {
 	public static boolean DEBUG = false;
@@ -10,6 +12,7 @@ public abstract class MvpApplication extends Application {
 	@Override
 	public void onCreate() {
 		super.onCreate();
+		Utils.init(this);
 		initDebug();
 		//初始化配置
 		try {

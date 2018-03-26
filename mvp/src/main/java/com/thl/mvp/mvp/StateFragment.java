@@ -10,7 +10,7 @@ import www.thl.com.utils.NetworkUtils;
  * Created by Administrator on 2018/3/23.
  */
 
-public abstract class StateFragment<P extends IPresent> extends XLazyFragment implements StateView {
+public abstract class StateFragment<P extends IPresent> extends XLazyFragment<P> implements StateView {
 
     protected StateManager mStateManager;
 
@@ -18,7 +18,7 @@ public abstract class StateFragment<P extends IPresent> extends XLazyFragment im
     public void bindUI(View rootView) {
         super.bindUI(rootView);
         mStateManager = StateManager.builder(getActivity())
-                .setContent(rootView)//为哪部分内容添加状态管理。这里可以是Activity，Fragment或任何View。
+                .setContent(this.getRealRootView())//为哪部分内容添加状态管理。这里可以是Activity，Fragment或任何View。
                 .setErrorOnClickListener(getErrorListener())
                 .setNetErrorOnClickListener(getNetErrorListener())
                 .setEmptyOnClickListener(getEmptyListener())

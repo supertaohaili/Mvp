@@ -10,6 +10,7 @@ import com.thl.mvp.base.SimpleRecAdapter;
 import com.thl.mvp.demo.adapter.HomeAdapter;
 import com.thl.mvp.demo.model.GankResults;
 import com.thl.mvp.demo.present.PBasePager;
+import com.thl.mvp.demo.present.PBasePager2;
 import com.thl.mvp.mvp.IPresent;
 import com.thl.mvp.mvp.ListFragment;
 import com.thl.mvp.net.NetError;
@@ -20,7 +21,7 @@ import cn.droidlover.xrecyclerview.XRecyclerView;
  * Created by wanglei on 2016/12/31.
  */
 
-public class HomeFragment2 extends ListFragment<PBasePager> {
+public class HomeFragment2 extends ListFragment<PBasePager2> {
 
 
     @Override
@@ -38,12 +39,12 @@ public class HomeFragment2 extends ListFragment<PBasePager> {
     @Override
     protected void loadMore(TwinklingRefreshLayout refreshLayout) {
         super.loadMore(refreshLayout);
-        getP().loadData(getType(), page);
+        getP().loadData(getType(), 1);
     }
 
     @Override
-    public PBasePager newP() {
-        return new PBasePager();
+    public PBasePager2 newP() {
+        return new PBasePager2();
     }
 
     @Override
@@ -98,6 +99,9 @@ public class HomeFragment2 extends ListFragment<PBasePager> {
     }
 
 
+    public static HomeFragment2 newInstance() {
+        return new HomeFragment2();
+    }
 
 
 }

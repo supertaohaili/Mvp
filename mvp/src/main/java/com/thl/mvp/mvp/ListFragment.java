@@ -10,7 +10,7 @@ import com.thl.mvp.R;
 import com.thl.mvp.base.SimpleRecAdapter;
 
 
-public abstract class ListFragment<P extends IPresent> extends StateFragment{
+public abstract class ListFragment<P extends IPresent> extends StateFragment<P>{
 
     private TwinklingRefreshLayout refreshLayout;
     private RecyclerView mRecyclerView;

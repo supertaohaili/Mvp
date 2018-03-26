@@ -38,7 +38,7 @@ public class MainActivity extends XActivity {
         setSupportActionBar(toolbar);
 
         fragmentList.clear();
-        fragmentList.add(HomeFragment.newInstance());
+        fragmentList.add(HomeFragment2.newInstance());
         fragmentList.add(GanhuoFragment.newInstance());
         fragmentList.add(GirlFragment.newInstance());
 

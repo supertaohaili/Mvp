@@ -3,6 +3,7 @@ package com.thl.mvp.demo;
 import android.app.Application;
 import android.content.Context;
 
+import com.thl.mvp.MvpApplication;
 import com.thl.mvp.net.NetError;
 import com.thl.mvp.net.NetProvider;
 import com.thl.mvp.net.RequestHandler;
@@ -16,7 +17,7 @@ import okhttp3.OkHttpClient;
  * Created by wanglei on 2016/12/31.
  */
 
-public class App extends Application {
+public class App extends MvpApplication {
 
     private static Context context;
 
@@ -72,6 +73,16 @@ public class App extends Application {
                 return false;
             }
         });
+    }
+
+    @Override
+    protected void initConfig() throws Exception {
+
+    }
+
+    @Override
+    protected void initConfigThread() throws Exception {
+
     }
 
     public static Context getContext() {
